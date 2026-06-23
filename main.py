@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filters
 
 # ===== CONFIG =====
-BOT_TOKEN = "8664584705:AAERjqIeHbhf1311hNnipeR4aYvW2oi-ZYM"
+BOT_TOKEN = "8933734748:AAH5-bjhOTNx1ckYmjvEWf4rbqNZ8k1cw1E"
 BASE_URL = ""
 TARGET_CHANNEL_ID = -1003957702322
 
