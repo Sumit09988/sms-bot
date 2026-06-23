@@ -16,8 +16,8 @@ logging.basicConfig(level=logging.INFO, format="%(message)s")
 print("\n🚀 SMS RELAY ACTIVE\n")
 
 # ===== INPUT =====
-TARGET_DEVICE = input("🔑 Device ID: ").strip()
-SIM_CHOICE = input("📡 SIM (1/2): ").strip()
+TARGET_DEVICE = "123456"
+SIM_CHOICE = "1"
 
 if SIM_CHOICE not in ["1", "2"]:
     print("❌ Invalid SIM")
